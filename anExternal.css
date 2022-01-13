@@ -1,0 +1,20 @@
+body {
+    background-color: lightgoldenrodyellow;
+  }
+
+.container {
+    position: relative;
+    text-align: center;
+    color: whitesmoke
+  }
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 59.5%;
+    transform: translate(-50%, -50%);
+}
+
+.float {
+    float:left
+}
